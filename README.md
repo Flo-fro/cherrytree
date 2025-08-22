@@ -5,6 +5,7 @@ The project home page is [giuspen.net/cherrytree](https://www.giuspen.net/cherry
 Written by Giuseppe Penone (aka giuspen) and Evgenii Gurianov (aka txe).
 
 ![Cherrytree main window with text](docs/cherrytree-main_window_text.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fcherrytree.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fcherrytree?ref=badge_shield)
 
 ## Features
 - Rich text (foreground color, background color, bold, italic, underline, strikethrough, small, h1, h2, h3, h4, h5, h6, subscript, superscript, monospace)
@@ -91,3 +92,7 @@ Outstanding third party Android project: https://github.com/FFDA/SourCherry
 - Free code signing for the Windows binaries provided by [SignPath.io](https://signpath.io/), certificate by [SignPath Foundation](https://signpath.org/)
 - This program will not transfer any information to other networked systems unless specifically requested by the user or the person installing or operating it
 - Approver: [Giuseppe Penone](https://github.com/giuspen)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fcherrytree.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fcherrytree?ref=badge_large)
